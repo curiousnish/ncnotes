@@ -115,7 +115,7 @@ Data Science is the term for a whole set of tools and techniques to analyze data
 It became a buzzword in 2012, when [Harvard Business Review](https://www.hbs.edu/faculty/Pages/item.aspx?num=43110) called:
 
 > Data Scientist: The Sexiest Job of the 21st Century
-> {: .prompt-tip }
+{: .prompt-tip }
 
 ## The Data Science Life Cycle
 
