@@ -51,7 +51,7 @@ The steps are pretty simple…
 - This will open the window for running the scripts and disabling some unwanted stuff from Microsoft.
 - These are the buttons I click after running the script:
 
-![Desktop View](/assets/img/windows.jpg){: .shadow .rounded-10 }
+![Desktop View](/assets/img/debloat.png){: .shadow .rounded-10 }
 *Everything starts with a Planning Stage (Source: Author)*
 
 *Credits —Richard Newton (Sycnex) is an awesome guy to provide these scripts for free and open sourcing the project. Much love to him and the team that made it possible.*
