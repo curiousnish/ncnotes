@@ -7,6 +7,8 @@ tags: ["Data Science", "Machine Learning", "Tools", "Roadmap"]
 date: 2021-08-01 12:00:00 +0530
 ---
 
+![Desktop View](https://images.unsplash.com/photo-1543286386-713bdd548da4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80){: width="972" height="589" }
+
 An article on free tools and a roadmap to start learning Data Science/ Machine Learning with no programming experience.
 
 
