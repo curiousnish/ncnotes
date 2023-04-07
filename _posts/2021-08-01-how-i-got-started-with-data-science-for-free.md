@@ -8,11 +8,14 @@ date: 2021-08-01 12:00:00 +0530
 ---
 An article on free tools and a roadmap to start learning Data Science/ Machine Learning with no programming experience.
 
-![Desktop View](/assets/img/ds.jpg){: width="972" height="589" }
+![Desktop View](/assets/img/ds.jpg){: width="700" height="400" }
 
+---
 ## Disclaimer
 
 This article reflects my thoughts and experience of pursuing Data Science. I am not a big fan of overly priced MOOCs or online courses and their promise of becoming a successful Data Scientist within months or weeks. Don’t get me wrong, these courses can help you with the basic idea of what is Data Science, and the technologies used but they will never be able to make you a master nor will you be able to get good high paying jobs based solely on these courses. The recruiters are not interested in courses you completed, but they are more interested in projects.
+
+---
 
 In my opinion, if you want to master the art of Data Science, you must be able to dedicate a huge amount of time for practicing and trying different things out. You need a lot of motivation to get started but you need a greater amount of discipline to stay on the path of learning. I have a lot friends/colleagues who dropped the idea of pursuing Data Science because of no sudden benefits and lack of patience and discipline.
 
