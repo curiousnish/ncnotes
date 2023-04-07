@@ -199,6 +199,7 @@ jekyll-archives:
     category: /categories/:name/
 
 jekyll_compose:
+  auto_open: true
   default_front_matter:
     drafts:
       layout: post
