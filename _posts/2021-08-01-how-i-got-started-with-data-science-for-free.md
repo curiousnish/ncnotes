@@ -8,7 +8,8 @@ date: 2021-08-01 12:00:00 +0530
 ---
 An article on free tools and a roadmap to start learning Data Science/ Machine Learning with no programming experience.
 
-![Desktop View](/assets/img/ds.jpg){: width="700" height="400" }
+![Desktop View](/assets/img/ds.jpg){: .shadow .rounded-10 w="700" h="400" }
+*Everything starts with a Planning Stage (Source: [Unsplash](https://unsplash.com/photos/6EnTPvPPL6I))*
 
 ---
 ***Disclaimer***
