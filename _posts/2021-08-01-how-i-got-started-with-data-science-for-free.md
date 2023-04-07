@@ -3,7 +3,7 @@ layout: post
 title: How I got started with Data Science for Free!
 author: self
 categories: [Data Science]
-tags: ["Data Science", "Machine Learning", "Tools", "Roadmap"]
+tags: ["Data Science", "Machine Learning", "Roadmap"]
 date: 2021-08-01 12:00:00 +0530
 ---
 An article on free tools and a roadmap to start learning Data Science/ Machine Learning with no programming experience.

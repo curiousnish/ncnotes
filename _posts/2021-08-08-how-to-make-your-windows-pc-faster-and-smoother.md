@@ -3,7 +3,8 @@ layout: post
 title: How to make your Windows PC Faster and Smoother
 author: self
 categories: [PC]
-tags: ["Windows 10", "PC", "Bloatware"]
+tags: ["Windows 10", "PC", "Bloatware", "Tools"]
+date: 2021-08-08 12:00:00 +0530
 ---
 
 An article written by an eight year old PC to help it’s successors lead a better life.
