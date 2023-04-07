@@ -197,3 +197,13 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      layout: post
+      title: 
+      author: self
+      categories: 
+      tags: 
+      date: YYYY-MM-DD HH:MM:SS +0530
