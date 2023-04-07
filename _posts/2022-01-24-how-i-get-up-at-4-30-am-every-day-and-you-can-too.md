@@ -6,8 +6,9 @@ categories: [Life]
 tags: ["Sleep", "Scheduling", "Life Hacking", "Productivity", "Self Improvement"]
 date: 2022-01-24 12:00:00 +0530
 ---
-![Desktop View](/assets/img/windows.jpg){: .shadow .rounded-10 w="700" h="400" }
-*Updates are Unavoidable (Source: [Unsplash](https://unsplash.com/photos/-jCY4oEMA3o))*
+
+![Desktop View](/assets/img/hourglass.jpg){: .shadow .rounded-10 w="700" h="400" }
+*Why does the time runs so fast! (Source: [Unsplash](https://unsplash.com/photos/KYxXMTpTzek))*
 
 All of us have some kind of side hustles/projects that we want to be a part of our lives. It may include writing a book/blog, reading, learning, exercising and the list goes on. But due to our full time work/college life, we don’t always get time to invest in ourselves and work towards our goals.
 

@@ -9,8 +9,8 @@ date: 2021-08-08 12:00:00 +0530
 
 An article written by an eight year old PC to help it’s successors lead a better life.
 
-![Desktop View](/assets/img/hourglass.jpg){: .shadow .rounded-10 w="700" h="400" }
-*Why does the time runs so fast! (Source: [Unsplash](https://unsplash.com/photos/KYxXMTpTzek))*
+![Desktop View](/assets/img/windows.jpg){: .shadow .rounded-10 w="700" h="400" }
+*Updates are Unavoidable (Source: [Unsplash](https://unsplash.com/photos/-jCY4oEMA3o))*
 
 Windows 11 is on the horizon and most of the people are excited to get a worthy update, but not every PC in the market is eligible for Windows 11 upgrade (not even a 3 year old hardware) due to some security requirements which Microsoft thinks are crucial for running Windows 11. So, we have to run Windows 10 till these requirement issues are sorted out.
 
@@ -52,6 +52,6 @@ The steps are pretty simple…
 - These are the buttons I click after running the script:
 
 ![Desktop View](/assets/img/debloat.png){: .shadow .rounded-10 }
-*Everything starts with a Planning Stage (Source: Author)*
+*Debloater Running (Source: Author)*
 
 *Credits —Richard Newton (Sycnex) is an awesome guy to provide these scripts for free and open sourcing the project. Much love to him and the team that made it possible.*
