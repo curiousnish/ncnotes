@@ -38,13 +38,13 @@ Here’s how I did it…
 
 ## Before Sleeping…
 
-### 1\. Go to bed early
+### 1. Go to bed early
 
 Every article, video and podcast started with this line and I’m not really a fan of this. I **go to bed between 11 to 11:30** and this has never stopped me from getting up early. The important thing here to note is that I take 1 or 2 naps of around 20 minutes during the day which helps me focus and removes all the laziness during the work. Now this approach is not possible for everyone and may not work for others, but this is a game of experiment and try to schedule your day to get a good 7 to 8 hours of sleep.
 
 If I was not able to take those precious naps during the day, then I would make sure to go to sleep at 10. So, you gotta try for yourself the different methods that your body can adapt to.
 
-### 2\. Create a Bedtime routine
+### 2. Create a Bedtime routine
 
 The most crucial part of achieving this goal is to make a proper bedtime routine. Before going to sleep, you must do some routine work which will prepare your body and mind for the sleep that will be coming soon. Through trial and error, I found out some of the things that worked for me and it may work for you as well…
 
@@ -56,7 +56,7 @@ The most crucial part of achieving this goal is to make a proper bedtime routine
 
 Lastly, try to think of all the things, projects or activities that you will be doing the next morning after getting up early. Make a list, write on a post-it note, do whatever it takes to get you motivated to move out of the bed.
 
-### 3\. Waking Up (The most difficult part) and way ahead
+### 3. Waking Up (The most difficult part) and way ahead
 
 It is the most painful part and it has the highest Failure Rate for obvious reasons 😉.
 

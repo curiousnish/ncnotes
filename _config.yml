@@ -199,9 +199,15 @@ jekyll-archives:
     category: /categories/:name/
 
 jekyll_compose:
-  auto_open: true
   default_front_matter:
     drafts:
+      layout: post
+      title: 
+      author: self
+      categories: 
+      tags: 
+      date: YYYY-MM-DD HH:MM:SS +0530
+    post:
       layout: post
       title: 
       author: self
