@@ -52,7 +52,7 @@ There a large number of sampling techniques used in different fields/domains, bu
 
 ### 1. Random Sampling
 > Random sampling is a part of the sampling technique in which each sample is chosen entirely by chance and has an equal probability of being chosen.
-{: .prompt-tip }
+{: .prompt-info }
 
 ![Desktop View](/assets/img/simple.png){: .shadow .rounded-10 w="700" h="400" }
 *(Source: Author)*
@@ -61,7 +61,7 @@ This is the most basic and common sampling technique as it does not include any 
 
 ### 2. Systematic Sampling
 > Systematic sampling is a probability sampling method in which a random sample, with a fixed periodic interval, is selected from a larger population.
-{: .prompt-tip }
+{: .prompt-info }
 
 In this type of sampling, we randomly select the first sample and others are selected using a fixed ‘sampling interval’. This sampling interval is given by:
 
@@ -82,7 +82,7 @@ We will select the first sample on random basis, i.e. 3 and then to select the n
 
 ### 3. Stratified Sampling
 > Stratified random sampling is a method of sampling that involves the division of a population into smaller sub-groups known as strata.
-{: .prompt-tip }
+{: .prompt-info }
 
 This type of sampling technique tries to minimize the sampling error as we will selecting the samples based on the proportion of their numbers in the population.
 
