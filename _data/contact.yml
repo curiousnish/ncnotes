@@ -22,6 +22,10 @@
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/nishithchoudhary'                  # Fill with your Linkedin homepage
+
+# - type: kofi
+#   icon: 'fa fa-coffee'   # icons powered by <https://fontawesome.com/>
+#   url:  'https://ko-fi.com/nishith8'                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
