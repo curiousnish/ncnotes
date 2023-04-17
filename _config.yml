@@ -206,11 +206,11 @@ jekyll_compose:
       author: self
       categories: 
       tags: 
-      date: YYYY-MM-DD HH:MM:SS +0530
+      date: YYYY-MM-DD HH:mm:ss +0530
     post:
       layout: post
       title: 
       author: self
       categories: 
       tags: 
-      date: YYYY-MM-DD HH:MM:SS +0530
+      date: YYYY-MM-DD HH:mm:ss +0530
