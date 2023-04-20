@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I got started with Data Science for Free!
-author: self
+author: Nishith
 categories: [Data Science]
 tags: ["Data Science", "Machine Learning", "Roadmap"]
 date: 2021-08-01 12:00:00 +0530

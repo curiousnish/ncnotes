@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI vs. ML vs. DL vs. DS — A Simple Differentiation Unknown to Many
-author: self
+author: Nishith
 categories: [Data Science]
 tags: ["Machine Learning", "Artificial Intelligence", "Deep Learning", "Data Science", "Comparison"]
 date: 2022-02-19 12:00:00 +0530
