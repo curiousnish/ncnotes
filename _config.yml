@@ -203,14 +203,14 @@ jekyll_compose:
     drafts:
       layout: post
       title: 
-      author: self
+      author: Nishith
       categories: 
       tags: 
       date: YYYY-MM-DD HH:mm:ss +0530
     post:
       layout: post
       title: 
-      author: self
+      author: Nishith
       categories: 
       tags: 
       date: YYYY-MM-DD HH:mm:ss +0530
