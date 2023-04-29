@@ -2,8 +2,13 @@
 layout: post
 title: How to make your Windows PC Faster and Smoother
 author: Nishith
-categories: [PC]
-tags: ["Windows 10", "PC", "Bloatware", "Tools"]
+categories: 
+- PC
+tags: 
+- Windows 10
+- PC
+- Bloatware
+- Tools
 date: 2021-08-08 12:00:00 +0530
 ---
 

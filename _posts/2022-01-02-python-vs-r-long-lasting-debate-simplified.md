@@ -2,8 +2,14 @@
 layout: post
 title: Python Vs. R… long lasting debate simplified
 author: Nishith
-categories: [Data Science]
-tags: ["Python", "R Language", "Machine Learning", "Data Science", "Python Vs R"]
+categories: 
+- Data Science
+tags: 
+- Python
+- R Language
+- Machine Learning
+- Data Science
+- Python Vs R
 date: 2022-01-02 12:00:00 +0530
 ---
 

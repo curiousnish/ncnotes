@@ -2,8 +2,12 @@
 layout: post
 title: Productivity is OVERRATED!
 author: Nishith
-categories: [Life]
-tags: ["Productivity", "Time Management", "Getting Things Done"]
+categories: 
+- Life
+tags: 
+- Productivity
+- Time Management
+- Getting Things Done
 date: 2023-04-14 20:00:00 +0530
 ---
 

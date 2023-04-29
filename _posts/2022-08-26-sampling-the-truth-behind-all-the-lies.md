@@ -2,8 +2,14 @@
 layout: post
 title: Sampling… The Truth Behind All The Lies
 author: Nishith
-categories: [Data Science]
-tags: ["Sampling", "Data Science", "Statistics", "Mathematics", "Surveying"]
+categories: 
+- Data Science
+tags: 
+- Sampling
+- Data Science
+- Statistics
+- Mathematics
+- Surveying
 math: true
 date: 2022-08-26 12:00:00 +0530
 ---

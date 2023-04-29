@@ -2,8 +2,14 @@
 layout: post
 title: How I get up at 4:30 am Every Day and You Can Too
 author: Nishith
-categories: [Life]
-tags: ["Sleep", "Scheduling", "Life Hacking", "Productivity", "Self Improvement"]
+categories: 
+- Life
+tags: 
+- Sleep
+- Scheduling
+- Life Hacking
+- Productivity
+- Self Improvement
 date: 2022-01-24 12:00:00 +0530
 ---
 
